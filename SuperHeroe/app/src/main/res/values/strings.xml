@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">DemoApp</string>
-    <string name="title">SuperHeroes</string>
-    <string name="btnSend">Send</string>
-    <string name="notificacion">You Send %s</string>
-    <string name="etHint" translatable="false">Heroe name</string>
-</resources>
