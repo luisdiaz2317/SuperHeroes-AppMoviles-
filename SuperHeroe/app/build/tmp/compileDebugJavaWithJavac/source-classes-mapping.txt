@@ -1,0 +1,6 @@
+com/example/superheroe/BuildConfig.java
+ com.example.superheroe.BuildConfig
+com/example/superheroe/databinding/ActivityMainBinding.java
+ com.example.superheroe.databinding.ActivityMainBinding
+com/example/superheroe/databinding/ActivityVerDatosBinding.java
+ com.example.superheroe.databinding.ActivityVerDatosBinding

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\SuperHeroe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_ver_datos.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\SuperHeroe\\app\\src\\main\\res\\layout\\activity_ver_datos.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\SuperHeroe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\SuperHeroe\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
